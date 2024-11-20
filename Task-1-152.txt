@@ -1,0 +1,9 @@
+(inventorySystem)Line 6-198, Long Class: The class inverntory system tries to implement all the 
+(inventoryManagementSystem)Line 6, Long Class name: The class name is very long.
+(inventoryManagementSystem)Line 11-12, Unclear functionality: The functionality of the class globalInventoryData is not clear.
+(inventoryManagementSystem)Line 11-12, Complex Logic: The sequencial insertion should be done using array. Using map is unnecessay.
+(globalInventoryData)Line 8-19, Public access of attributes: The attributes are globally accessable. 
+(inventorySystem)Line 43-67, long switch cases: The logic is unclear and complex and implemented using multiple if-else statemnts.
+(inventorySystem)Line 77-98, Comple Logic : The logic is complex and not clear.
+(inventorySystem)Line 133-166, Long Class: The class is very long.
+(reportScheduler)Line 3-7, Unnecessary Class: The class is only used for printing data. Seperate class is unnecessary
